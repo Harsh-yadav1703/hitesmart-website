@@ -1,1 +1,1 @@
-# hitesmart-website.html
+# hiresmart-website.html
